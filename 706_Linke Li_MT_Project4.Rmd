@@ -199,3 +199,7 @@ ggplot(HRMI_a2, aes(y = HEARTRTE, x = SEX, color = SEX)) +
   theme( plot.title = element_text(size = 10))
 ggsave("Aim2_2.png")
 ```
+
+
+## 控诉珂珂整天搞色色
+
